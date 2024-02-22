@@ -26,13 +26,12 @@
       <img width="30" src="https://th.bing.com/th/id/R.229079c8f5240851cece598cf8eee770?rik=JND2PKmC%2fxzB1w&riu=http%3a%2f%2fpngimg.com%2fuploads%2femail%2femail_PNG11.png&ehk=6sNwAjueFilXp3tCehLPbXDGgZgsYZdR7y6dZ3vpSk4%3d&risl=&pid=ImgRaw&r=0">
     </a>
     <a href = "https://www.linkedin.com/public-profile/settings">
-      <img width="40" src="https://www.flaticon.com/br/icone-gratis/linkedin_3536505">
+      <img width="24" src="https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png">
     </a>
     <a href = "https://www.instagram.com/werton0?igsh=a3hmemRqYnhsbnhl">
       <img width="25" src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente.png?fit=696%2C696&ssl=1">
     </a>
 </div>
   
-![Snake animation](https://github.com/EwertonDuda/EwertonDuda/blob/output/github-contribution-grid-snake.svg)
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=f0f0FF&section=footer" />
