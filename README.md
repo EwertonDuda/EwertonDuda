@@ -26,7 +26,7 @@
       <img width="30" src="https://th.bing.com/th/id/R.229079c8f5240851cece598cf8eee770?rik=JND2PKmC%2fxzB1w&riu=http%3a%2f%2fpngimg.com%2fuploads%2femail%2femail_PNG11.png&ehk=6sNwAjueFilXp3tCehLPbXDGgZgsYZdR7y6dZ3vpSk4%3d&risl=&pid=ImgRaw&r=0">
     </a>
     <a href = "https://www.linkedin.com/public-profile/settings">
-      <img width="40" src="[https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png](https://www.flaticon.com/br/icone-gratis/internet_4426375)">
+      <img width="40" src="https://www.flaticon.com/br/icone-gratis/linkedin_3536505">
     </a>
     <a href = "https://www.instagram.com/werton0?igsh=a3hmemRqYnhsbnhl">
       <img width="25" src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente.png?fit=696%2C696&ssl=1">
